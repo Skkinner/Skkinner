@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fahad Al-qahtani
+# 👋 Hi, I'm Fahad Al-Nahi
 
 I am a Computer Science graduate from King Khalid University with Second-Class Honors and a strong passion for Artificial Intelligence, Deep Learning, and Computer Vision. I specialize in building high-performance deep learning models and integrating them into full-stack research prototypes.
 
